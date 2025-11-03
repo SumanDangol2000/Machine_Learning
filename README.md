@@ -12,10 +12,10 @@ Types of Machine Learning
     
     2.Classification
         1.Decision Tree
-            1.Ensemble methods (Reduce Overfitting, Improve Generalization, Increase Accuracy)
-                1.Bagging
-                    1.Random Forest
-                2.Boosting
-                    1.Gradient Boosting 
-                    2.XGBoost
+        2.Ensemble methods (Reduce Overfitting, Improve Generalization, Increase Accuracy)
+            1.Bagging
+                1.Random Forest
+            2.Boosting
+                1.Gradient Boosting 
+                2.XGBoost
 
