@@ -1,21 +1,14 @@
-# Machine_Learning
+# Supervised Machine Learning
 
-Types of Machine Learning
-1. Supervised Machine Learning
-2. Unsupervised Machine Learning
-3. Renforcement Machine Learning
+1. **Regression**
+    1.1. Linear Regression  
+    1.2. Logistic Regression  
 
-1. Supervised Machine Learning
-    1.Regression
-        1.Linear Regression
-        2.Logistic REgression
-    
-    2.Classification
-        1.Decision Tree
-        2.Ensemble methods (Reduce Overfitting, Improve Generalization, Increase Accuracy)
-            1.Bagging
-                1.Random Forest
-            2.Boosting
-                1.Gradient Boosting 
-                2.XGBoost
-
+2. **Classification**
+    2.1. Decision Tree  
+    2.2. Ensemble Methods *(Reduce Overfitting, Improve Generalization, Increase Accuracy)*  
+        2.2.1. Bagging  
+            - Random Forest  
+        2.2.2. Boosting  
+            - Gradient Boosting  
+            - XGBoost  
