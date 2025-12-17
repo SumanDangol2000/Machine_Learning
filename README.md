@@ -11,4 +11,8 @@
             - Random Forest  
         2.2.2. Boosting  
             - Gradient Boosting  
-            - XGBoost  
+            - XGBoost 
+
+3. **Neural Network**
+    3.1. Backpropagation
+    3.2. Convolutional Neural Network
